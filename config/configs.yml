@@ -1,0 +1,6 @@
+prisma_cloud:
+  username: ""
+  password: ""
+  customer_name:
+  api_base: "api2.prismacloud.io"
+  filename: ""
